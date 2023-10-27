@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Financetracker/static/css/main.16b8b29a.css",
+    "main.js": "/Financetracker/static/js/main.a8141017.js",
+    "static/js/787.53dd4468.chunk.js": "/Financetracker/static/js/787.53dd4468.chunk.js",
+    "static/media/user.jpg": "/Financetracker/static/media/user.acac1eb6338278386728.jpg",
+    "static/media/transactions.svg": "/Financetracker/static/media/transactions.004d9f02317991455e50b36d9dae2a26.svg",
+    "index.html": "/Financetracker/index.html",
+    "static/media/searchImg.svg": "/Financetracker/static/media/searchImg.54868180027a87685a163ed9732f4fcd.svg",
+    "main.16b8b29a.css.map": "/Financetracker/static/css/main.16b8b29a.css.map",
+    "main.a8141017.js.map": "/Financetracker/static/js/main.a8141017.js.map",
+    "787.53dd4468.chunk.js.map": "/Financetracker/static/js/787.53dd4468.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b8b29a.css",
+    "static/js/main.a8141017.js"
+  ]
+}
