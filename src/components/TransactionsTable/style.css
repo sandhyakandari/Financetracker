@@ -1,0 +1,26 @@
+.my-table{
+    background-color: var(--white);
+    color:var(--black);
+}
+.ant-table{
+    color:var(--black) !important;
+    background-color: var(--white) !important;
+}
+
+.ant-table-row:hover{
+    color:black;
+}
+
+.ant-pagination .ant-pagination-item-active {
+    background:var(--theme);
+}
+.ant-pagination .ant-pagination-item{
+    background:white;
+}
+
+.ant-pagination .ant-pagination-item a:hover{
+    background:white;
+}
+.ant-pagination-prev, .ant-pagination-next{
+    background:white;
+}

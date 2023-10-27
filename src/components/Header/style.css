@@ -1,0 +1,15 @@
+.navbar{
+    background-color:var(--theme);
+    display: flex;
+    justify-content: space-between;
+   width:100%;
+    color:white;   
+    font-weight: 600;
+}
+.logo{
+    margin-left:2rem;
+}
+
+.link{
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.signupwraper{
+    width:30%;
+    min-width:300px;
+    height: auto;
+    box-shadow: var(--shadow);
+    border-radius: 1rem;
+    padding:2rem;
+    margin: 2rem;
+}
+.title{
+    color:var(--black);
+    text-align: center;
+    font-weight: 500;
+    margin:2px;
+}
+@media only screen and (max-width:950px)
+{
+    .headingmytransaction{
+    width:100%;
+}
+}
